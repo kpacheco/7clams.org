@@ -4,8 +4,8 @@
 <head>
 <title>7clams</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <style type="text/css">
 body {
 	background: #5c94fc url() no-repeat fixed bottom right;
@@ -20,21 +20,21 @@ body {
 	z-index: -1;
 }
 #thesun {
-	background: url(/angrysun.png);
+	background: url(angrysun.png);
 	position: absolute;
 	width: 156px;
 	height: 156px;
 	z-index: 0;
 }
 #thesun:hover {
-	background: url(/yaranaisun1.png);
+	background: url(yaranaisun1.png);
 }
 
 #thesun:active {
-	background: url(/yaranaisun2.png);
+	background: url(yaranaisun2.png);
 }
 #lchead {
-	background: url(/head.png);
+	background: url(head.png);
 	position: absolute;
 	right: 16px;
 	top: 0;
@@ -42,7 +42,7 @@ body {
 	height: 120px;
 }
 #lcbody {
-	background: url(/body.png);
+	background: url(body.png);
 	position: absolute;
 	right: 16px;
 	width: 96px;
@@ -51,7 +51,7 @@ body {
 }
 
 #palmtr {
-	background: url(/palms.png);
+	background: url(palms.png);
 	position: absolute;
 	bottom: 32px;
 	width: 160px;
@@ -59,7 +59,7 @@ body {
 	margin: 0 0 0 25%;
 }
 #lcpipe {
-	background: url(/pipe.png);
+	background: url(pipe.png);
 	position: absolute;
 	bottom: 32px;
 	right: 0;
@@ -68,7 +68,7 @@ body {
 	z-index: 2;
 }
 #desert {
-	background: url(/sand.png);
+	background: url(sand.png);
 	position: absolute;
 	bottom: 0;
 	height: 32px;
